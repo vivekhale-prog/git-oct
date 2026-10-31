@@ -1,1 +1,1 @@
-# git-oct
+git is very usefull for Devops.
